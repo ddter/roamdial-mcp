@@ -7,10 +7,10 @@
   "homepage": "https://roamdial.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DDTer/roamdial-mcp.git"
+    "url": "https://github.com/ddter/roamdial-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/DDTer/roamdial-mcp/issues"
+    "url": "https://github.com/ddter/roamdial-mcp/issues"
   },
   "bin": {
     "roamdial-mcp": "./bin/roamdial-mcp.mjs"

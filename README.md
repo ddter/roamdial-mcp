@@ -9,7 +9,7 @@
 
 This repository provides the official **Model Context Protocol (MCP)** integration for RoamDial:
 1. **Direct Remote Streamable HTTP Server (`https://roamdial.com/mcp`)** — zero install, no API key or authentication required.
-2. **Lightweight Local `stdio` Bridge (`npx -y github:DDTer/roamdial-mcp`)** — zero-dependency Node.js wrapper for local-only MCP clients.
+2. **Lightweight Local `stdio` Bridge (`npx -y github:ddter/roamdial-mcp`)** — zero-dependency Node.js wrapper for local-only MCP clients.
 
 ---
 
@@ -59,7 +59,7 @@ For MCP clients that only support local `stdio` processes (requires Node.js >= 1
   "mcpServers": {
     "roamdial": {
       "command": "npx",
-      "args": ["-y", "github:DDTer/roamdial-mcp"]
+      "args": ["-y", "github:ddter/roamdial-mcp"]
     }
   }
 }
