@@ -1,0 +1,39 @@
+{
+  "name": "roamdial-mcp",
+  "version": "1.0.2",
+  "description": "Model Context Protocol (MCP) server for RoamDial — explore 35,000+ live radio stations from 215 countries on a 3D globe by city, genre, mood, and live ICY track title.",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://roamdial.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DDTer/roamdial-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DDTer/roamdial-mcp/issues"
+  },
+  "bin": {
+    "roamdial-mcp": "./bin/roamdial-mcp.mjs"
+  },
+  "files": [
+    "bin/",
+    "server.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "radio",
+    "world-radio",
+    "internet-radio",
+    "roamdial",
+    "streamable-http",
+    "music",
+    "audio"
+  ]
+}
