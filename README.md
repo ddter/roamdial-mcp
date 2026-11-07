@@ -1,7 +1,7 @@
 # RoamDial MCP Server — Live World Radio on a 3D Globe
 
 [![Glama MCP Connector](https://glama.ai/mcp/connectors/io.github.DDTer/roamdial/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.DDTer/roamdial)
-[![MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.DDTer%2Froamdial-blue)](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.DDTer%2Froamdial/versions/latest)
+[![MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.ddter%2Froamdial-blue)](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.ddter%2Froamdial/versions/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Website](https://img.shields.io/badge/Live_3D_Globe-roamdial.com-ff6b35)](https://roamdial.com)
 
